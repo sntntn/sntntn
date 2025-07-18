@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vukašin Marković 👋
 
-<!--
-**sntntn/sntntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vukasin-markovic-252781245/)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ethereum Protocol Fellowship (EPF) participant** — focused on Rust development, observability, blockchain, and the internals of Ethereum consensus clients.
+- 🎓 **Graduated Computer Scientist** from the Mathematical Faculty, University of Belgrade.
+- 🎓 **Master’s student** in Computer Science at the Mathematical Faculty, University of Belgrade.
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/vukasin-markovic-252781245/)
+
+---
